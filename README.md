@@ -194,9 +194,6 @@ Frontend:
 GitHub:
 https://github.com/namits1ngh
 
-LinkedIn:
-(Add LinkedIn URL)
-
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
