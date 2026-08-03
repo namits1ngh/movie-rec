@@ -9,13 +9,12 @@ A full-stack Movie Recommendation System built using **FastAPI**, **Streamlit**,
 ## 🚀 Live Demo
 
 Frontend:
-(Add Streamlit URL)
+https://movie-rec-k4lsqgzaiizuywjj5gxvqg.streamlit.app/
 
 Backend API:
-(Add Render URL)
+https://movie-rec-2-eypw.onrender.com
 
-API Documentation:
-https://your-render-url.onrender.com/docs
+
 
 ---
 
